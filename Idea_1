@@ -1,0 +1,7 @@
+Idea#1
+
+Upload and upgrade the old (.NET1.1) XMLDiff library from Microsoft 
+-> Not easily avaialable anymore; need a .NET1.1 OS to install...
+-> Port to .NET v4.x
+-> Port old VS project to VS >= 2010
+-> Fix any bugs/issues if found.
