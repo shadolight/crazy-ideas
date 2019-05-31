@@ -5,3 +5,5 @@ Upload and upgrade the old (.NET1.1) XMLDiff library from Microsoft
 -> Port to .NET v4.x
 -> Port old VS project to VS >= 2010
 -> Fix any bugs/issues if found.
+
+NOTE: This library has been superseded by XmlNotepad. See XmlNotepad repo.
